@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f406fd8-9b10-4438-bcb3-aedd33bfed0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Golden-studio" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RunManager">
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
@@ -44,7 +47,10 @@
       <updated>1613355022267</updated>
       <workItem from="1613355024262" duration="10737000" />
       <workItem from="1613411981436" duration="207000" />
-      <workItem from="1613412223455" duration="7513000" />
+      <workItem from="1613412223455" duration="14038000" />
+      <workItem from="1613427307162" duration="903000" />
+      <workItem from="1613428258890" duration="13000" />
+      <workItem from="1613428503783" duration="298000" />
     </task>
     <servers />
   </component>
@@ -60,6 +66,10 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="168" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1422.760@0.0.1422.760" timestamp="1613361730583" />
+    <state x="383" y="159" key="EditFileWatcherDialog" timestamp="1613427343231">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="383" y="159" key="EditFileWatcherDialog/0.0.1422.760@0.0.1422.760" timestamp="1613427343231" />
     <state x="493" y="136" key="FileChooserDialogImpl" timestamp="1613365863952">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
@@ -80,6 +90,10 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state width="1402" height="189" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1613364758259" />
+    <state x="222" y="26" key="SettingsEditor" timestamp="1613427339072">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="222" y="26" key="SettingsEditor/0.0.1422.760@0.0.1422.760" timestamp="1613427339072" />
     <state x="321" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613411991547">
       <screen x="0" y="0" width="1422" height="760" />
     </state>

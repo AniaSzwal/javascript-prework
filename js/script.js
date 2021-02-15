@@ -1,4 +1,5 @@
-{
+
+//Funkcja playGame
     function playGame(playerInput) {
         clearMessages();
 // komputer
@@ -53,17 +54,17 @@
         console.log(' player ' + argPlayerMove);
 
         if (argComputerMove == 'kamień' && argPlayerMove == 'papier') {
-            printMessage('Ty wygrywasz!');
+            printMessage('You win!');
         } else if (argComputerMove == 'nożyce' && argPlayerMove == 'kamień') {
-            printMessage('Ty wygrywasz!');
+            printMessage('You win!');
         } else if (argComputerMove == 'papier' && argPlayerMove == 'nożyce') {
-            printMessage('Ty wygrywasz!');
+            printMessage('You win!');
         } else if (argComputerMove == argPlayerMove) {
             printMessage('Remis!');
         } else if (argPlayerMove == 'nieznany ruch') {
-            printMessage('Wpisałeś nieznaną wartość! Wybierz cyfrę od 1 do 3');
+            printMessage('Błąd! Nieznana wartość!');
         } else {
-            printMessage('Przegrałeś ;[')
+            printMessage('You lose ;[')
         }
 
     }
@@ -82,8 +83,6 @@
     playScissors.addEventListener('click', function () {
         playGame(3)
     });
-
-}
 
 
 
