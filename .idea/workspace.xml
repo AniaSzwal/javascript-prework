@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2f406fd8-9b10-4438-bcb3-aedd33bfed0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Golden-studio" />
   </component>
   <component name="RunManager">
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
@@ -40,7 +42,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613355022267</updated>
-      <workItem from="1613355024262" duration="7674000" />
+      <workItem from="1613355024262" duration="10737000" />
+      <workItem from="1613411981436" duration="207000" />
+      <workItem from="1613412223455" duration="3567000" />
     </task>
     <servers />
   </component>
@@ -56,21 +60,29 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="168" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1422.760@0.0.1422.760" timestamp="1613361730583" />
-    <state width="1402" height="189" key="GridCell.Tab.0.bottom" timestamp="1613362910055">
+    <state x="493" y="136" key="FileChooserDialogImpl" timestamp="1613365863952">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.bottom/0.0.1422.760@0.0.1422.760" timestamp="1613362910055" />
-    <state width="1402" height="189" key="GridCell.Tab.0.center" timestamp="1613362910055">
+    <state x="493" y="136" key="FileChooserDialogImpl/0.0.1422.760@0.0.1422.760" timestamp="1613365863952" />
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom" timestamp="1613364758259">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.center/0.0.1422.760@0.0.1422.760" timestamp="1613362910055" />
-    <state width="1402" height="189" key="GridCell.Tab.0.left" timestamp="1613362910055">
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom/0.0.1422.760@0.0.1422.760" timestamp="1613364758259" />
+    <state width="1402" height="189" key="GridCell.Tab.0.center" timestamp="1613364758259">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.left/0.0.1422.760@0.0.1422.760" timestamp="1613362910055" />
-    <state width="1402" height="189" key="GridCell.Tab.0.right" timestamp="1613362910055">
+    <state width="1402" height="189" key="GridCell.Tab.0.center/0.0.1422.760@0.0.1422.760" timestamp="1613364758259" />
+    <state width="1402" height="189" key="GridCell.Tab.0.left" timestamp="1613364758259">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1613362910055" />
+    <state width="1402" height="189" key="GridCell.Tab.0.left/0.0.1422.760@0.0.1422.760" timestamp="1613364758259" />
+    <state width="1402" height="189" key="GridCell.Tab.0.right" timestamp="1613364758259">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="189" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1613364758259" />
+    <state x="321" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613411991547">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="321" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1422.760@0.0.1422.760" timestamp="1613411991547" />
   </component>
 </project>
