@@ -22,6 +22,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,11 +40,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613355022267</updated>
-      <workItem from="1613355024262" duration="4573000" />
+      <workItem from="1613355024262" duration="6763000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="59" key="#Inspections" timestamp="1613362089584">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="339" y="59" key="#Inspections/0.0.1422.760@0.0.1422.760" timestamp="1613362089584" />
+    <state x="168" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613361730583">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="168" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1422.760@0.0.1422.760" timestamp="1613361730583" />
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom" timestamp="1613361812156">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom/0.0.1422.760@0.0.1422.760" timestamp="1613361812156" />
+    <state width="1402" height="189" key="GridCell.Tab.0.center" timestamp="1613361812156">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="189" key="GridCell.Tab.0.center/0.0.1422.760@0.0.1422.760" timestamp="1613361812156" />
+    <state width="1402" height="189" key="GridCell.Tab.0.left" timestamp="1613361812156">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="189" key="GridCell.Tab.0.left/0.0.1422.760@0.0.1422.760" timestamp="1613361812156" />
+    <state width="1402" height="189" key="GridCell.Tab.0.right" timestamp="1613361812156">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state width="1402" height="189" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1613361812156" />
   </component>
 </project>
