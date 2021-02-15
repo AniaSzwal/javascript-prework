@@ -1,3 +1,4 @@
+function getMoveName
 function printMessage(msg){
     let div = document.createElement('div');
     div.innerHTML = msg;
@@ -54,7 +55,7 @@ if(computerMove == 'kamień' && playerMove == 'papier'){
 }else if(computerMove == 'kamień' || "papier" || "nożyce" && playerMove == 'nieznany ruch'){
     printMessage('Wpisałeś nieznaną wartość! Wybierz cyfrę od 1 do 3');
 }else {
-    printMessage('Błąd! Spróbuj ponownie wpisać wartość z przedziału 1-3')
+    printMessage('Przegrałeś ;[')
 }
 
 
