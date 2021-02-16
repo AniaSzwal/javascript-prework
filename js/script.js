@@ -1,5 +1,4 @@
-
-//Funkcja playGame
+{//Funkcja playGame
     function playGame(playerInput) {
         clearMessages();
 // komputer
@@ -9,7 +8,7 @@
 
         let computerMove = getMoveName(randomNumber);
 
-        printMessage('Mój ruch to: ' + computerMove);
+        printMessage('Computer move: ' + computerMove);
 
 
 // ja
@@ -19,7 +18,7 @@
 
         let playerMove = getMoveName(playerInput);
 
-        printMessage('Twój ruch to: ' + playerMove);
+        printMessage('Your move: ' + playerMove);
 
 // pokaz wynik
         displayResult(computerMove, playerMove);
@@ -34,7 +33,7 @@
         } else if (number == 3) {
             return 'nożyce';
         } else {
-            return 'nienznany ruch'
+            return 'nieznany ruch'
         }
     }
 
@@ -44,35 +43,43 @@
         document.getElementById('messages').appendChild(div);
     }
 
-    function clearMessages() {
+   const clearMessages = function() {
         document.getElementById('messages').innerHTML = '';
     }
+
 
     function displayResult(argComputerMove, argPlayerMove) {
 
         console.log(' computer ' + argComputerMove);
         console.log(' player ' + argPlayerMove);
 
+
         if (argComputerMove == 'kamień' && argPlayerMove == 'papier') {
             printMessage('You win!');
+
         } else if (argComputerMove == 'nożyce' && argPlayerMove == 'kamień') {
             printMessage('You win!');
+
         } else if (argComputerMove == 'papier' && argPlayerMove == 'nożyce') {
             printMessage('You win!');
+
         } else if (argComputerMove == argPlayerMove) {
-            printMessage('Remis!');
+            printMessage('Remis!')
         } else if (argPlayerMove == 'nieznany ruch') {
             printMessage('Błąd! Nieznana wartość!');
         } else {
             printMessage('You lose ;[')
+
         }
 
     }
 
+
     let playPaper = document.getElementById('play-paper');
     playPaper.addEventListener('click', function () {
         playGame(2)
-    });
+    })
+
 
     let playRock = document.getElementById('play-rock');
     playRock.addEventListener('click', function () {
@@ -82,7 +89,7 @@
     let playScissors = document.getElementById('play-scissors');
     playScissors.addEventListener('click', function () {
         playGame(3)
+
     });
 
-
-
+}

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f406fd8-9b10-4438-bcb3-aedd33bfed0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
@@ -50,7 +49,7 @@
       <workItem from="1613412223455" duration="14038000" />
       <workItem from="1613427307162" duration="903000" />
       <workItem from="1613428258890" duration="13000" />
-      <workItem from="1613428503783" duration="298000" />
+      <workItem from="1613428503783" duration="12126000" />
     </task>
     <servers />
   </component>
@@ -98,5 +97,13 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="321" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1422.760@0.0.1422.760" timestamp="1613411991547" />
+    <state x="370" y="171" key="run.anything.popup" timestamp="1613432939355">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="370" y="171" key="run.anything.popup/0.0.1422.760@0.0.1422.760" timestamp="1613432939355" />
+    <state x="374" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1613435625726">
+      <screen x="0" y="0" width="1422" height="760" />
+    </state>
+    <state x="374" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1422.760@0.0.1422.760" timestamp="1613435625726" />
   </component>
 </project>
