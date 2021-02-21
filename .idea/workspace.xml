@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2f406fd8-9b10-4438-bcb3-aedd33bfed0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +26,23 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.watch:browsersync">
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="watch:browsersync" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch:browsersync" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.watch:browsersync" />
         <item itemvalue="Node.js.script.js" />
       </list>
     </recent_temporary>
@@ -49,6 +62,10 @@
       <workItem from="1613428258890" duration="13000" />
       <workItem from="1613428503783" duration="12968000" />
       <workItem from="1613502363175" duration="3805000" />
+      <workItem from="1613508266923" duration="1145000" />
+      <workItem from="1613838178522" duration="595000" />
+      <workItem from="1613853747859" duration="595000" />
+      <workItem from="1613860618083" duration="1204000" />
     </task>
     <servers />
   </component>
@@ -72,22 +89,22 @@
       <screen x="0" y="0" width="1422" height="760" />
     </state>
     <state x="493" y="136" key="FileChooserDialogImpl/0.0.1422.760@0.0.1422.760" timestamp="1613365863952" />
-    <state width="1402" height="189" key="GridCell.Tab.0.bottom" timestamp="1613364758259">
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom" timestamp="1613509421071">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.bottom/0.0.1422.760@0.0.1422.760" timestamp="1613364758259" />
-    <state width="1402" height="189" key="GridCell.Tab.0.center" timestamp="1613364758259">
+    <state width="1402" height="189" key="GridCell.Tab.0.bottom/0.0.1422.760@0.0.1422.760" timestamp="1613509421071" />
+    <state width="1402" height="189" key="GridCell.Tab.0.center" timestamp="1613509421070">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.center/0.0.1422.760@0.0.1422.760" timestamp="1613364758259" />
-    <state width="1402" height="189" key="GridCell.Tab.0.left" timestamp="1613364758259">
+    <state width="1402" height="189" key="GridCell.Tab.0.center/0.0.1422.760@0.0.1422.760" timestamp="1613509421070" />
+    <state width="1402" height="189" key="GridCell.Tab.0.left" timestamp="1613509421069">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.left/0.0.1422.760@0.0.1422.760" timestamp="1613364758259" />
-    <state width="1402" height="189" key="GridCell.Tab.0.right" timestamp="1613364758259">
+    <state width="1402" height="189" key="GridCell.Tab.0.left/0.0.1422.760@0.0.1422.760" timestamp="1613509421069" />
+    <state width="1402" height="189" key="GridCell.Tab.0.right" timestamp="1613509421071">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
-    <state width="1402" height="189" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1613364758259" />
+    <state width="1402" height="189" key="GridCell.Tab.0.right/0.0.1422.760@0.0.1422.760" timestamp="1613509421071" />
     <state x="222" y="26" key="SettingsEditor" timestamp="1613427339072">
       <screen x="0" y="0" width="1422" height="760" />
     </state>
